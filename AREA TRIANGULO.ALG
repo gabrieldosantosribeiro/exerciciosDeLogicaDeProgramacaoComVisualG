@@ -1,4 +1,4 @@
-Algoritmo "area_triangulo"
+Algoritmo "area triangulo"
 // Disciplina   : Lógica de Programação
 // Professor   : Jailson Costa
 // Descrição   : Lê a base e altura de um triângulo e calcula sua área.

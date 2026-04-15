@@ -1,4 +1,4 @@
-Algoritmo "area_circulo"
+Algoritmo "area circulo"
 // Disciplina   : Lógica de Programação
 // Professor   : Jailson Costa
 // Descrição   : Lê o valor do raio de um circulo e calcula sua área.

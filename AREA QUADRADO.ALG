@@ -1,4 +1,4 @@
-Algoritmo "area_quadrado"
+Algoritmo "area quadrado"
 // Disciplina   : Lógica de Programação
 // Professor   : Jailson Costa
 // Descrição   : Lê o valor do lado de um quadrado e calcula sua área.

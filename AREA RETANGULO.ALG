@@ -1,4 +1,4 @@
-Algoritmo "area_retangulo"
+Algoritmo "area retangulo"
 // Disciplina   : Lógica de Programação
 // Professor   : Jailson Costa
 // Descrição   : Lê a base e altura de um retângulo e calcula sua área.

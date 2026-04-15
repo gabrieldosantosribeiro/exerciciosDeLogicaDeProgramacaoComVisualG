@@ -1,4 +1,4 @@
-Algoritmo "area_losangulo"
+Algoritmo "area losangulo"
 // Disciplina   : Lógica de Programação
 // Professor   : Jailson Costa
 // Descrição   : Lê o valor da diogonal maior e diagonal menor de um losangulo e calcula sua área.

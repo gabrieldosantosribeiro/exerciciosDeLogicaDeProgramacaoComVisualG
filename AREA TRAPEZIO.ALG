@@ -1,4 +1,4 @@
-Algoritmo "area_trapezio"
+Algoritmo "area trapezio"
 // Disciplina   : Lógica de Programação
 // Professor   : Jailson Costa
 // Descrição   : Lê a base maior, base menor e altura de um trapézio e calcula sua área.
